@@ -1,7 +1,6 @@
 import requests
-import json
 
-api_key = "d725b1c651074e7fa238041ef5dccb0a"
+api_key = "get_your_own_key"
 url = "https://newsapi.org/v2/top-headlines?sources=google-news-in&apiKey="+api_key
 
 
